@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-inetaf-tcpproxy (0.0~git20231102.2862066-2) unstable; urgency=medium
 
-  * Initial release
+  * Remove TODO from debian/copyright
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Tue, 05 Dec 2023 12:01:38 +0000
+
+golang-github-inetaf-tcpproxy (0.0~git20231102.2862066-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1057406)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Mon, 04 Dec 2023 13:35:49 +0000
